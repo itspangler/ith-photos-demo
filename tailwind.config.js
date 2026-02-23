@@ -10,8 +10,8 @@ export default {
 		},
 		extend: {
 			fontFamily: {
-				sans: ['Inter', 'sans-serif'],
-				playfair: ['Playfair Display', 'serif'],
+				sans: ['Open Sans', 'sans-serif'],
+				mono: ['Space Mono', 'mono'],
 			},
 			colors: {
 				border: 'hsl(var(--border))',
