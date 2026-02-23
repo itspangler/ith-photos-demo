@@ -20,7 +20,7 @@ export default {
 		} as SocialLink,
 		{
 			name: 'Instagram',
-			url: 'https://www.instagram.com',
+			url: 'https://www.instagram.com/ith_photos/',
 			icon: Instagram,
 		} as SocialLink,
 	],
