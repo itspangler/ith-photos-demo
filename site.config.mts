@@ -15,7 +15,7 @@ export default {
 	socialLinks: [
 		{
 			name: 'GitHub',
-			url: 'https://github.com/rockem/astro-photography-portfolio',
+			url: 'https://github.com/itspangler/',
 			icon: Github,
 		} as SocialLink,
 		{
