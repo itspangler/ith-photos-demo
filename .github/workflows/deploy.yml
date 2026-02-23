@@ -32,6 +32,6 @@ jobs:
         uses: JamesIves/github-pages-deploy-action@v4
         with:
           folder: dist
-          branch: main       # default target branch
+          branch: gh-pages       # default target branch
           repository-name: itspangler/ith-photos-demo
           clean: true            # optional, cleans old files
