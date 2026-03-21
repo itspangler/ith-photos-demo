@@ -1,55 +1,55 @@
 collections:
-  - id: nature
-    name: Nature
-  - id: travel
-    name: Travel
-  - id: street
-    name: Street
+  - id: protest
+    name: Protests
+  - id: wage-theft
+    name: Wage Theft
+  - id: unsorted
+    name: Unsorted
 images:
-  - path: nature/nature-2.jpg
+  - path: protest/0.jpg
     meta:
-      title: Nature scene 2
-      description: Serene natural landscape capturing the essence of wilderness.
+      title: Protest scene 2
+      description: Lorem Ipsum
       collections:
-        - nature
+        - protest
     exif: {}
-  - path: nature/nature-3.jpg
+  - path: protest/1.jpg
     meta:
-      title: Nature scene 3
-      description: Breathtaking natural vista showcasing environmental beauty.
+      title: Protest scene 3
+      description: Lorem Ipsum
       collections:
         - featured
-        - nature
+        - protest
     exif: {}
-  - path: nature/nature-5.jpg
+  - path: protest/2.jpg
     meta:
-      title: Nature scene 5
-      description: Natural landscape showing the raw beauty of the environment.
+      title: Protest scene 5
+      description: Lorem Ipsum
       collections:
-        - nature
+        - protest
     exif: {}
-  - path: nature/nature-7.jpg
+  - path: protest/3.jpg
     meta:
-      title: Nature scene 7
-      description: Stunning natural landscape capturing environmental beauty.
-      collections:
-        - featured
-        - nature
-    exif: {}
-  - path: nature/nature-8.jpg
-    meta:
-      title: Nature scene 8
-      description: Beautiful natural vista showcasing environmental wonder.
-      collections:
-        - nature
-    exif: {}
-  - path: nature/L1002174.jpg
-    meta:
-      title: Travel scene 6
-      description: null
+      title: Protest scene 7
+      description: Lorem Ipsum
       collections:
         - featured
-        - nature
+        - protest
+    exif: {}
+  - path: protest/4.jpg
+    meta:
+      title: Protest scene 8
+      description: Lorem Ipsum
+      collections:
+        - protest
+    exif: {}
+  - path: wage-theft/0.jpg
+    meta:
+      title: Wage theft standout
+      description: Lorem Ipsum
+      collections:
+        - featured
+        - wage-theft
     exif:
       captureDate: 2025-03-27T10:35:21.000Z
       fNumber: 8
@@ -58,33 +58,472 @@ images:
       model: LEICA Q3
       shutterSpeed: 1250
       lensModel: SUMMILUX 1:1.7/28 ASPH.
-  - path: nature/nature-10.jpg
+  - path: unsorted/IMG_6301.webp
     meta:
-      title: Nature scene 10
-      description: Majestic natural landscape displaying environmental splendor.
+      title: IMG_6301
+      description: Lorem Ipsum
       collections:
-        - nature
+        - unsorted
     exif: {}
-  - path: street/stree-1.jpg
+  - path: unsorted/IMG_6303.webp
     meta:
-      title: Street photography 1
-      description: Urban scene capturing the essence of city life.
+      title: IMG_6303
+      description: Lorem Ipsum
       collections:
-        - featured
-        - street
+        - unsorted
     exif: {}
-  - path: travel/travel-1.jpg
+  - path: unsorted/IMG_6305.webp
     meta:
-      title: Travel scene 1
-      description: Journey through remarkable destinations.
+      title: IMG_6305
+      description: Lorem Ipsum
       collections:
-        - featured
-        - travel
+        - unsorted
     exif: {}
-  - path: nature/nature-1.jpg
+  - path: unsorted/IMG_6386.webp
     meta:
-      title: Nature 1
-      description: ''
+      title: IMG_6386
+      description: Lorem Ipsum
       collections:
-        - nature
+        - unsorted
+    exif: {}
+  - path: unsorted/IMG_6388.webp
+    meta:
+      title: IMG_6388
+      description: Lorem Ipsum
+      collections:
+        - unsorted
+    exif: {}
+  - path: unsorted/IMG_6426.webp
+    meta:
+      title: IMG_6426
+      description: Lorem Ipsum
+      collections:
+        - unsorted
+    exif: {}
+  - path: unsorted/IMG_6442.webp
+    meta:
+      title: IMG_6442
+      description: Lorem Ipsum
+      collections:
+        - unsorted
+    exif: {}
+  - path: unsorted/IMG_6494.webp
+    meta:
+      title: IMG_6494
+      description: Lorem Ipsum
+      collections:
+        - unsorted
+    exif: {}
+  - path: unsorted/IMG_6685.webp
+    meta:
+      title: IMG_6685
+      description: Lorem Ipsum
+      collections:
+        - unsorted
+    exif: {}
+  - path: unsorted/IMG_6722.webp
+    meta:
+      title: IMG_6722
+      description: Lorem Ipsum
+      collections:
+        - unsorted
+    exif: {}
+  - path: unsorted/IMG_6794.webp
+    meta:
+      title: IMG_6794
+      description: Lorem Ipsum
+      collections:
+        - unsorted
+    exif: {}
+  - path: unsorted/IMG_6864.webp
+    meta:
+      title: IMG_6864
+      description: Lorem Ipsum
+      collections:
+        - unsorted
+    exif: {}
+  - path: unsorted/IMG_6887.webp
+    meta:
+      title: IMG_6887
+      description: Lorem Ipsum
+      collections:
+        - unsorted
+    exif: {}
+  - path: unsorted/IMG_6894.webp
+    meta:
+      title: IMG_6894
+      description: Lorem Ipsum
+      collections:
+        - unsorted
+    exif: {}
+  - path: unsorted/IMG_7188.webp
+    meta:
+      title: IMG_7188
+      description: Lorem Ipsum
+      collections:
+        - unsorted
+    exif: {}
+  - path: unsorted/IMG_7231.webp
+    meta:
+      title: IMG_7231
+      description: Lorem Ipsum
+      collections:
+        - unsorted
+    exif: {}
+  - path: unsorted/IMG_7300.webp
+    meta:
+      title: IMG_7300
+      description: Lorem Ipsum
+      collections:
+        - unsorted
+    exif: {}
+  - path: unsorted/IMG_7388.webp
+    meta:
+      title: IMG_7388
+      description: Lorem Ipsum
+      collections:
+        - unsorted
+    exif: {}
+  - path: unsorted/IMG_7396.webp
+    meta:
+      title: IMG_7396
+      description: Lorem Ipsum
+      collections:
+        - unsorted
+    exif: {}
+  - path: unsorted/IMG_7463.webp
+    meta:
+      title: IMG_7463
+      description: Lorem Ipsum
+      collections:
+        - unsorted
+    exif: {}
+  - path: unsorted/IMG_7510.webp
+    meta:
+      title: IMG_7510
+      description: Lorem Ipsum
+      collections:
+        - unsorted
+    exif: {}
+  - path: unsorted/IMG_7516.webp
+    meta:
+      title: IMG_7516
+      description: Lorem Ipsum
+      collections:
+        - unsorted
+    exif: {}
+  - path: unsorted/IMG_7741.webp
+    meta:
+      title: IMG_7741
+      description: Lorem Ipsum
+      collections:
+        - unsorted
+    exif: {}
+  - path: unsorted/IMG_7801.webp
+    meta:
+      title: IMG_7801
+      description: Lorem Ipsum
+      collections:
+        - unsorted
+    exif: {}
+  - path: unsorted/IMG_7819.webp
+    meta:
+      title: IMG_7819
+      description: Lorem Ipsum
+      collections:
+        - unsorted
+    exif: {}
+  - path: unsorted/IMG_8008.webp
+    meta:
+      title: IMG_8008
+      description: Lorem Ipsum
+      collections:
+        - unsorted
+    exif: {}
+  - path: unsorted/IMG_8083.webp
+    meta:
+      title: IMG_8083
+      description: Lorem Ipsum
+      collections:
+        - unsorted
+    exif: {}
+  - path: unsorted/IMG_8089.webp
+    meta:
+      title: IMG_8089
+      description: Lorem Ipsum
+      collections:
+        - unsorted
+    exif: {}
+  - path: unsorted/IMG_8130.webp
+    meta:
+      title: IMG_8130
+      description: Lorem Ipsum
+      collections:
+        - unsorted
+    exif: {}
+  - path: unsorted/IMG_8147.webp
+    meta:
+      title: IMG_8147
+      description: Lorem Ipsum
+      collections:
+        - unsorted
+    exif: {}
+  - path: unsorted/IMG_8151.webp
+    meta:
+      title: IMG_8151
+      description: Lorem Ipsum
+      collections:
+        - unsorted
+    exif: {}
+  - path: unsorted/IMG_8256.webp
+    meta:
+      title: IMG_8256
+      description: Lorem Ipsum
+      collections:
+        - unsorted
+    exif: {}
+  - path: unsorted/IMG_8343.webp
+    meta:
+      title: IMG_8343
+      description: Lorem Ipsum
+      collections:
+        - unsorted
+    exif: {}
+  - path: unsorted/IMG_8447.webp
+    meta:
+      title: IMG_8447
+      description: Lorem Ipsum
+      collections:
+        - unsorted
+    exif: {}
+  - path: unsorted/IMG_8486.webp
+    meta:
+      title: IMG_8486
+      description: Lorem Ipsum
+      collections:
+        - unsorted
+    exif: {}
+  - path: unsorted/IMG_8508.webp
+    meta:
+      title: IMG_8508
+      description: Lorem Ipsum
+      collections:
+        - unsorted
+    exif: {}
+  - path: unsorted/IMG_8585.webp
+    meta:
+      title: IMG_8585
+      description: Lorem Ipsum
+      collections:
+        - unsorted
+    exif: {}
+  - path: unsorted/IMG_8663.webp
+    meta:
+      title: IMG_8663
+      description: Lorem Ipsum
+      collections:
+        - unsorted
+    exif: {}
+  - path: unsorted/IMG_8701.webp
+    meta:
+      title: IMG_8701
+      description: Lorem Ipsum
+      collections:
+        - unsorted
+    exif: {}
+  - path: unsorted/IMG_8792.webp
+    meta:
+      title: IMG_8792
+      description: Lorem Ipsum
+      collections:
+        - unsorted
+    exif: {}
+  - path: unsorted/IMG_8896.webp
+    meta:
+      title: IMG_8896
+      description: Lorem Ipsum
+      collections:
+        - unsorted
+    exif: {}
+  - path: unsorted/IMG_9074.webp
+    meta:
+      title: IMG_9074
+      description: Lorem Ipsum
+      collections:
+        - unsorted
+    exif: {}
+  - path: unsorted/IMG_9118.webp
+    meta:
+      title: IMG_9118
+      description: Lorem Ipsum
+      collections:
+        - unsorted
+    exif: {}
+  - path: unsorted/IMG_9121.webp
+    meta:
+      title: IMG_9121
+      description: Lorem Ipsum
+      collections:
+        - unsorted
+    exif: {}
+  - path: unsorted/IMG_9141.webp
+    meta:
+      title: IMG_9141
+      description: Lorem Ipsum
+      collections:
+        - unsorted
+    exif: {}
+  - path: unsorted/IMG_9146.webp
+    meta:
+      title: IMG_9146
+      description: Lorem Ipsum
+      collections:
+        - unsorted
+    exif: {}
+  - path: unsorted/IMG_9157.webp
+    meta:
+      title: IMG_9157
+      description: Lorem Ipsum
+      collections:
+        - unsorted
+    exif: {}
+  - path: unsorted/IMG_9160.webp
+    meta:
+      title: IMG_9160
+      description: Lorem Ipsum
+      collections:
+        - unsorted
+    exif: {}
+  - path: unsorted/IMG_9185.webp
+    meta:
+      title: IMG_9185
+      description: Lorem Ipsum
+      collections:
+        - unsorted
+    exif: {}
+  - path: unsorted/IMG_9278.webp
+    meta:
+      title: IMG_9278
+      description: Lorem Ipsum
+      collections:
+        - unsorted
+    exif: {}
+  - path: unsorted/IMG_9282.webp
+    meta:
+      title: IMG_9282
+      description: Lorem Ipsum
+      collections:
+        - unsorted
+    exif: {}
+  - path: unsorted/IMG_9322.webp
+    meta:
+      title: IMG_9322
+      description: Lorem Ipsum
+      collections:
+        - unsorted
+    exif: {}
+  - path: unsorted/IMG_9403.webp
+    meta:
+      title: IMG_9403
+      description: Lorem Ipsum
+      collections:
+        - unsorted
+    exif: {}
+  - path: unsorted/IMG_9484.webp
+    meta:
+      title: IMG_9484
+      description: Lorem Ipsum
+      collections:
+        - unsorted
+    exif: {}
+  - path: unsorted/IMG_9493.webp
+    meta:
+      title: IMG_9493
+      description: Lorem Ipsum
+      collections:
+        - unsorted
+    exif: {}
+  - path: unsorted/IMG_9546.webp
+    meta:
+      title: IMG_9546
+      description: Lorem Ipsum
+      collections:
+        - unsorted
+    exif: {}
+  - path: unsorted/IMG_9565.webp
+    meta:
+      title: IMG_9565
+      description: Lorem Ipsum
+      collections:
+        - unsorted
+    exif: {}
+  - path: unsorted/IMG_9569.webp
+    meta:
+      title: IMG_9569
+      description: Lorem Ipsum
+      collections:
+        - unsorted
+    exif: {}
+  - path: unsorted/IMG_9622.webp
+    meta:
+      title: IMG_9622
+      description: Lorem Ipsum
+      collections:
+        - unsorted
+    exif: {}
+  - path: unsorted/IMG_9646.webp
+    meta:
+      title: IMG_9646
+      description: Lorem Ipsum
+      collections:
+        - unsorted
+    exif: {}
+  - path: unsorted/IMG_9734.webp
+    meta:
+      title: IMG_9734
+      description: Lorem Ipsum
+      collections:
+        - unsorted
+    exif: {}
+  - path: unsorted/IMG_9743.webp
+    meta:
+      title: IMG_9743
+      description: Lorem Ipsum
+      collections:
+        - unsorted
+    exif: {}
+  - path: unsorted/IMG_9744.webp
+    meta:
+      title: IMG_9744
+      description: Lorem Ipsum
+      collections:
+        - unsorted
+    exif: {}
+  - path: unsorted/IMG_9746.webp
+    meta:
+      title: IMG_9746
+      description: Lorem Ipsum
+      collections:
+        - unsorted
+    exif: {}
+  - path: unsorted/IMG_9747.webp
+    meta:
+      title: IMG_9747
+      description: Lorem Ipsum
+      collections:
+        - unsorted
+    exif: {}
+  - path: unsorted/Marty.webp
+    meta:
+      title: Marty
+      description: Lorem Ipsum
+      collections:
+        - unsorted
+    exif: {}
+  - path: unsorted/Teehan_For_Rep_Faded_Logo.webp
+    meta:
+      title: Teehan For Rep Faded Logo
+      description: Lorem Ipsum
+      collections:
+        - unsorted
     exif: {}
