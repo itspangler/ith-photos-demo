@@ -14,11 +14,6 @@ export default {
 	profileImage: 'profile.webp',
 	socialLinks: [
 		{
-			name: 'GitHub',
-			url: 'https://github.com/itspangler/',
-			icon: Github,
-		} as SocialLink,
-		{
 			name: 'Instagram',
 			url: 'https://www.instagram.com/ith_photos/',
 			icon: Instagram,
